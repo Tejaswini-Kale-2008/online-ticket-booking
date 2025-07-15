@@ -1,17 +1,18 @@
- online-ticket-booking
+ **online-ticket-booking**
  2nd repository of online-ticket-booking using Hibernate-JPA
- 🎫 Online Ticket Booking System
+ 
+ **🎫 Online Ticket Booking System**
 
-This is a console-based Java application for managing an online ticket booking system using **Hibernate (7.0.5.Final)** and **JPA** with a PostgreSQL.
+This is a console-based Java application for managing an online ticket booking system using **Hibernate (7.0.5.Final)** and **JPA** with a **PostgreSQL.**
 
 ---
 
- 📘 Introduction
+ **📘 Introduction**
 
 This project demonstrates how to build a simple but real-world Java application using:
 - **Object-Oriented Programming (OOP)**
 - **Java Persistence API (JPA)**
-- **Hibernate ORM (v7.x)** for data persistence
+- **Hibernate ORM (7.x)** for data persistence
 - **PostgreSQL** as the relational database
 
 The system allows passengers to book tickets, update or delete bookings, and retrieve all or individual 
@@ -19,7 +20,7 @@ ticket information via a menu-driven console interface.
 
 ---
 
-🚀 Features
+**🚀 Features**
 
 - ➕ Add a new ticket (passenger name, destination, price)
 - 🔍 View a ticket by ID
@@ -31,7 +32,7 @@ ticket information via a menu-driven console interface.
 
 ---
 
- 🛠 Tech Stack
+ **🛠 Tech Stack**
 
 | Component      | Technology                   |
 |----------------|------------------------------|
@@ -44,12 +45,12 @@ ticket information via a menu-driven console interface.
 
 ---
 
-🧾 How to Run
+**🧾 How to Run**
 
 1. ✅ Make sure PostgreSQL is installed and running
 2. ✅ Create the database:
 
-🗂️ Database
+**🗂️ Database**
 
   CREATE TABLE tickets (
     id SERIAL PRIMARY KEY,
@@ -58,7 +59,7 @@ ticket information via a menu-driven console interface.
     price DOUBLE PRECISION NOT NULL
 );
 
-✅ Dependencies (in pom.xml)
+**✅ Dependencies (in pom.xml)**
 
 <dependency>
     <groupId>org.hibernate.orm</groupId>
@@ -78,14 +79,15 @@ ticket information via a menu-driven console interface.
     <version>42.7.3</version>
 </dependency>
 
-💡DEMO output
+**💡DEMO output**
 
 
 
 
 
-👩‍💻 Author
+**👩‍💻 Author**
+
 Name - Tejaswini Kale
-📧 emil account - kaletejaswini36@gmail.com
+📧 email account - kaletejaswini36@gmail.com
 🔗 GitHub Profile - Tejaswini-Kale-2008
 

@@ -53,30 +53,14 @@ ticket information via a menu-driven console interface.
 
 **✅ Dependencies (in pom.xml)**
 
-<dependency>
-    <groupId>org.hibernate.orm</groupId>
-    <artifactId>hibernate-core</artifactId>
-    <version>7.0.5.Final</version>
-</dependency>
-
-<dependency>
-    <groupId>jakarta.persistence</groupId>
-    <artifactId>jakarta.persistence-api</artifactId>
-    <version>3.1.0</version>
-</dependency>
-
-<dependency>
-    <groupId>org.postgresql</groupId>
-    <artifactId>postgresql</artifactId>
-    <version>42.7.3</version>
-</dependency>
 
 **💡 Output**
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e030a8c2-b858-400d-8eaa-f0a439d6365f" />
 
 **Contact**
-Name - Tejaswini Kale
-email - kaletejaswini36@gmail.com
-GitHub - Tejaswini-Kale-2008
+
+Name: Tejaswini Kale
+email: kaletejaswini36@gmail.com
+GitHub: Tejaswini-Kale-2008
 

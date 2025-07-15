@@ -79,8 +79,9 @@ ticket information via a menu-driven console interface.
     <version>42.7.3</version>
 </dependency>
 
-**💡DEMO output**
+**💡 Output**
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e030a8c2-b858-400d-8eaa-f0a439d6365f" />
 
 
 

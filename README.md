@@ -44,7 +44,7 @@ ticket information via a menu-driven console interface.
 
 **🗂️ Database**
 
-  CREATE TABLE tickets (
+  CREATE TABLE ticket(
     id SERIAL PRIMARY KEY,
     passengerName VARCHAR NOT NULL,
     destination VARCHAR NOT NULL,
@@ -60,7 +60,8 @@ ticket information via a menu-driven console interface.
 
 **Contact**
 
-Name: Tejaswini Kale
+Name: Tejaswini Kale                                                                                                                      
 email: kaletejaswini36@gmail.com
+
 GitHub: Tejaswini-Kale-2008
 

@@ -83,7 +83,8 @@ ticket information via a menu-driven console interface.
 
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e030a8c2-b858-400d-8eaa-f0a439d6365f" />
 
-**👩‍💻 Author**
+**Contact**
+
 Name - Tejaswini Kale
 email - kaletejaswini36@gmail.com
 GitHub - Tejaswini-Kale-2008

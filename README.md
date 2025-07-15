@@ -3,9 +3,7 @@
  
  **🎫 Online Ticket Booking System**
 
-This is a console-based Java application for managing an online ticket booking system using **Hibernate (7.0.5.Final)** and **JPA** with a **PostgreSQL.**
-
----
+This is a console-based Java application for managing an online ticket booking system using **Hibernate (7.0.5.Final)** and **JPA** with a **PostgreSQL.*
 
  **📘 Introduction**
 
@@ -18,8 +16,6 @@ This project demonstrates how to build a simple but real-world Java application 
 The system allows passengers to book tickets, update or delete bookings, and retrieve all or individual 
 ticket information via a menu-driven console interface.
 
----
-
 **🚀 Features**
 
 - ➕ Add a new ticket (passenger name, destination, price)
@@ -29,8 +25,6 @@ ticket information via a menu-driven console interface.
 - ❌ Delete a ticket by ID
 - 🗂️ Data is stored in PostgreSQL using Hibernate ORM
 - 🧩 Fully modular: DAO, Entity, and Main classes separated
-
----
 
  **🛠 Tech Stack**
 
@@ -42,8 +36,6 @@ ticket information via a menu-driven console interface.
 | JPA API        | Jakarta Persistence 3.1.0    |
 | Database       | PostgreSQL                   |
 | IDE (Optional) | Eclipse / IntelliJ IDEA      |
-
----
 
 **🧾 How to Run**
 
@@ -84,7 +76,6 @@ ticket information via a menu-driven console interface.
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e030a8c2-b858-400d-8eaa-f0a439d6365f" />
 
 **Contact**
-
 Name - Tejaswini Kale
 email - kaletejaswini36@gmail.com
 GitHub - Tejaswini-Kale-2008

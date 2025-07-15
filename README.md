@@ -85,8 +85,6 @@ ticket information via a menu-driven console interface.
 
 **👩‍💻 Author**
 Name - Tejaswini Kale
-
-📧 email account - kaletejaswini36@gmail.com
-
-🔗 GitHub Profile - Tejaswini-Kale-2008
+email - kaletejaswini36@gmail.com
+GitHub - Tejaswini-Kale-2008
 

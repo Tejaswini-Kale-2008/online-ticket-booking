@@ -25,13 +25,14 @@ public class MainApp {
 
             switch (choice) {
                 case 1 -> {
+                    System.out.print("ID: ");
                     System.out.print("Name: ");
                     String name = sc.nextLine();
                     System.out.print("Destination: ");
                     String dest = sc.nextLine();
                     System.out.print("Price: ");
                     double price = sc.nextDouble();
-                    dao.addTicket(new TicketEntity(name, dest, price));
+                    dao.addTicket(new TicketEntity(id, name, dest, price));
                     System.out.println("🎫 Ticket booked.");
                 }
                 case 2 -> dao.getAllTickets().forEach(System.out::println);
@@ -42,9 +43,12 @@ public class MainApp {
                 }
                 case 4 -> {
                     System.out.print("Enter ID: ");
-                    int id = sc.nextInt(); sc.nextLine();
+                    int id = sc.nextInt(); 
+                   
                     TicketEntity t = dao.getTicket(id);
                     if (t != null) {
+                        System.out.print("New ID");
+                        t.setId(sc.nextInt());
                         System.out.print("New Name: ");
                         t.setPassengerName(sc.nextLine());
                         System.out.print("New Destination: ");
